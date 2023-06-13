@@ -1,5 +1,10 @@
 <div align="center">
 
+  ![Heartfulness Logo](https://planning.unc.edu/wp-content/uploads/sites/399/2018/01/heartfulness-logo.png)
+
+</div>
+<div align="center">
+
 # Heartfulness Backend Application
 
 </div>
@@ -95,11 +100,5 @@ Please follow the steps below to set up and run the Heartfulness Backend Applica
 <div align="center">
 
 Congratulations! You have successfully set up and run the Heartfulness Backend Application. Enjoy!
-
-</div>
-
-<div align="center">
-
-  ![Heartfulness Logo](https://planning.unc.edu/wp-content/uploads/sites/399/2018/01/heartfulness-logo.png)
 
 </div>
