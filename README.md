@@ -2,7 +2,7 @@
 
 # Heartfulness Backend Application
 
-![Heartfulness Logo](/path/to/logo.png)
+![Heartfulness Logo](https://heartintune-admin-qa.web.app/new_favicon.png)
 
 </div>
 
