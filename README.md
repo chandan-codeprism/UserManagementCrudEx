@@ -1,8 +1,20 @@
 <div align="center">
 
+<!-- Add CSS styling to make the logo have rounded corners -->
+<style>
+.logo {
+  border-radius: 50%;
+  overflow: hidden;
+}
+</style>
+
+<!-- Heartfulness Backend Application -->
 # Heartfulness Backend Application
 
-![Heartfulness Logo](https://avatars.githubusercontent.com/u/15202436?s=200&v=4)
+<!-- Update the logo image element with the "logo" class -->
+<div class="logo">
+  <img src="https://avatars.githubusercontent.com/u/15202436?s=200&v=4" alt="Heartfulness Logo" width="200" height="200">
+</div>
 
 </div>
 
