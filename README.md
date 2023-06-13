@@ -2,7 +2,7 @@
 
 # Heartfulness Backend Application
 
-![Heartfulness Logo](/path/to/logo.png)
+![Heartfulness Logo](https://avatars.githubusercontent.com/u/15202436?s=200&v=4)
 
 </div>
 
