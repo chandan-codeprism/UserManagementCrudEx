@@ -1,20 +1,32 @@
 <div align="center">
 
-<!-- Add CSS styling to make the logo have rounded corners -->
+<!-- Add CSS styling to position the logos on both sides -->
 <style>
 .logo {
-  border-radius: 50%;
-  overflow: hidden;
+  display: inline-block;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.logo-left {
+  float: left;
+}
+
+.logo-right {
+  float: right;
 }
 </style>
 
-<!-- Heartfulness Backend Application -->
-# Heartfulness Backend Application
-
-<!-- Update the logo image element with the "logo" class -->
-<div class="logo">
-  <img src="https://avatars.githubusercontent.com/u/15202436?s=200&v=4" alt="Heartfulness Logo" width="200" height="200">
-</div>
+<!-- Heartfulness Backend Application with logos -->
+<h1>
+  <div class="logo logo-left">
+    <img src="https://avatars.githubusercontent.com/u/15202436?s=200&v=4" alt="Heartfulness Logo - Left" width="100" height="100">
+  </div>
+  Heartfulness Backend Application
+  <div class="logo logo-right">
+    <img src="https://avatars.githubusercontent.com/u/15202436?s=200&v=4" alt="Heartfulness Logo - Right" width="100" height="100">
+  </div>
+</h1>
 
 </div>
 
