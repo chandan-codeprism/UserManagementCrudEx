@@ -90,10 +90,11 @@ Please follow the steps below to set up and run the Heartfulness Backend Applica
     - Open the project in **IntelliJ IDE**.
     - Set up the necessary configurations for running the project.
     - Execute the project by clicking the Run button in **IntelliJ IDE**.
+ #
 
 <div align="center">
 
-## Congratulations! You have successfully set up and run the Heartfulness Backend Application. Enjoy!
+Congratulations! You have successfully set up and run the Heartfulness Backend Application. Enjoy!
 
 </div>
 
