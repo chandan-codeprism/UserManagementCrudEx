@@ -1,32 +1,8 @@
 <div align="center">
 
-<!-- Add CSS styling to position the logos on both sides -->
-<style>
-.logo {
-  display: inline-block;
-  margin-right: 20px;
-  margin-left: 20px;
-}
+# Heartfulness Backend Application
 
-.logo-left {
-  float: left;
-}
-
-.logo-right {
-  float: right;
-}
-</style>
-
-<!-- Heartfulness Backend Application with logos -->
-<h1>
-  <div class="logo logo-left">
-    <img src="https://avatars.githubusercontent.com/u/15202436?s=200&v=4" alt="Heartfulness Logo - Left" width="100" height="100">
-  </div>
-  Heartfulness Backend Application
-  <div class="logo logo-right">
-    <img src="https://avatars.githubusercontent.com/u/15202436?s=200&v=4" alt="Heartfulness Logo - Right" width="100" height="100">
-  </div>
-</h1>
+![Heartfulness Logo](/path/to/logo.png)
 
 </div>
 
